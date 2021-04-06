@@ -16,7 +16,7 @@ John.s.butler@tudublin.ie
 Some animals hunt other animals in order to feed themselves; these are called predators. Animals who are hunted and eaten are known as prey. What do you think would happen if a predator was introduced to an ecosystem where the prey previously lived without fear of being hunted? Would the new predator eat all the prey animals until they go extinct? Actually, the relationship between predator and prey is far more interesting than this. In this article, we show what this relationship looks like over time and explain how scientists can make predictions about future population levels all using simple mathematics like addition, subtraction and multiplication.
 
 ## 
-This is the respitory for the (python code)[https://colab.research.google.com/github/john-s-butler-dit/Predator-Prey-for-Young-Minds/blob/master/Snow%20Hares%20and%20Lynxes%20Frontiers%20for%20Young%20Minds.ipynb]
+This is the respitory for the [python code](https://colab.research.google.com/github/john-s-butler-dit/Predator-Prey-for-Young-Minds/blob/master/Snow%20Hares%20and%20Lynxes%20Frontiers%20for%20Young%20Minds.ipynb)
 to simulate the Predator Prey relationship.
 ## References 
 Brooks, H. Z., Kanjanasaratool, U., Kureh, Y. H. & Mason. P. Disease Detectives: Using Mathematics to Forecast the Spread of Infectious Diseases Frontiers for Young Minds (2021) 
